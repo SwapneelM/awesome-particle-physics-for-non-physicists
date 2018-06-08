@@ -86,7 +86,6 @@ A curated list of introductory resources to particle physics for people without 
 ## Miscellaneous / Advanced
 - :warning:[Galileo Galelei Summer School on Theoretical Physics](http://webtheory.sns.it/ggilectures2016/program.html)
 (Lectures on the Early Universe, Lattice Gauge Theory, Effective Field Theories, Flavor Physics, Dark Matter, QCD & Collider Physics)
-- 
 
 ## Need More?
 * For more resources on particle physics as well as deep learning with a focus on physics, look up the resources available on the [CERN Document Server](http://cds.cern.ch/).
