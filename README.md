@@ -1,5 +1,6 @@
 # awesome-particle-physics-for-non-physicists [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of **introductory** resources to fundamental concepts in particle physics including the Standard Model, QED, QCD, Jets, Colliders, and Detectors. No background knowledge necessary (for the most part)!
+Particle physics is the branch of physics that studies the nature of the particles that constitute matter and radiation. 
+This is a curated list of **introductory** resources to fundamental concepts in particle physics including the Standard Model, QED, QCD, Jets, Colliders, and Detectors. The idea is to learn these concepts with no background knowledge necessary (for the most part)!
 
 ## Awesome list criteria
 
