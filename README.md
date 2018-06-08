@@ -9,7 +9,7 @@ A curated list of introductory resources to particle physics for people without 
 4. For multiple related resources that may not necessarily link to each other, please add all the links separately in a part-by-part order.
 5. If you are unable to categorise the resources, please leave them under [Miscellaneous](#miscellaneous--advanced)
 4. Adding resources on advanced subjects is encouraged, but do ensure the other resources present on the list cover the prerequisites for such topics - feel free to add those yourself.
-5. Add a :warning: warning against all advanced/theoretical resources for easier browsing.
+5. Please add a :warning: warning against all advanced/theoretical resources for easier browsing.
 
 ## Contents
 * [Introduction / Overview](#introduction--overview)
@@ -28,7 +28,7 @@ A curated list of introductory resources to particle physics for people without 
 - [Introduction to Particle Physics (3/4)](https://www.youtube.com/watch?v=QIvg_ZKh3i4)
 - [Introduction to Particle Physics (4/4)](https://www.youtube.com/watch?v=SHZpFgXaJhs)
 
-- [Playlist: Particle Physics by 'DrPhysicsA'](https://www.youtube.com/watch?v=d1zaw-KZX1o&list=PL93B3DDC89C085C1C)
+- :warning:[Playlist: Particle Physics by 'DrPhysicsA'](https://www.youtube.com/watch?v=d1zaw-KZX1o&list=PL93B3DDC89C085C1C)
 
 - [Blog: What's a Proton](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/whats-a-proton-anyway/)
 - [Blog: What's a Hadron](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/whats-a-hadron-as-in-large-hadron-collider/)
@@ -37,7 +37,7 @@ A curated list of introductory resources to particle physics for people without 
 - [Blog: What is Supersymmetry (Series)](https://profmattstrassler.com/articles-and-posts/some-speculative-theoretical-ideas-for-the-lhc/supersymmetry/supersymmetry-what-is-it/)
 
 ## Quantum Electrodynamics
-#### Prof. Richard Feynman Lectures
+#### :warning: Prof. Richard Feynman Lectures
 - [Photons - Corpuscles of Light (1/4)](https://www.youtube.com/watch?v=eLQ2atfqk2c)
 - [Fits of Reflection and Transmission - Quantum Behaviour (2/4)](https://www.youtube.com/watch?v=kMSgE62S6oo)
 - [Electrons and their Interactions (3/4)](https://www.youtube.com/watch?v=jNNXD7fuE5E&t)
@@ -61,13 +61,13 @@ A curated list of introductory resources to particle physics for people without 
 
 - [Playlist: Jets at Hadron Colliders (3 lecture series)](https://indico.cern.ch/event/115078/)
 
-- [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
+- :warning:[Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
 - [Blog: Jets](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-known-apparently-elementary-particles/jets-the-manifestation-of-quarks-and-gluons/)
 - [Blog: What is Tagging?](https://physics.stackexchange.com/questions/13447/what-does-tagging-mean-in-experimental-high-energy-physics)
 
 ## Colliders
-- [Collider Physics from the Bottom Up (1/2)](https://www.youtube.com/watch?v=WecDyhrWg8U)
-- [Collider Physics from the Bottom Up (2/2)](https://www.youtube.com/watch?v=U2Mf8kcWLOA)
+- :warning:[Collider Physics from the Bottom Up (1/2)](https://www.youtube.com/watch?v=WecDyhrWg8U)
+- :warning:[Collider Physics from the Bottom Up (2/2)](https://www.youtube.com/watch?v=U2Mf8kcWLOA)
 
 ## Monte-Carlo Techniques
 - [Introduction to Monte-Carlo Techniques (1/2)](http://cds.cern.ch/record/2276330?ln=en)
@@ -84,7 +84,7 @@ A curated list of introductory resources to particle physics for people without 
 - [Simulation of Particles Within a Detector (2/2)](http://cds.cern.ch/record/2276428?ln=en)
 
 ## Miscellaneous / Advanced
-- [Galileo Galelei Summer School on Theoretical Physics](http://webtheory.sns.it/ggilectures2016/program.html)
+- :warning:[Galileo Galelei Summer School on Theoretical Physics](http://webtheory.sns.it/ggilectures2016/program.html)
 (Lectures on the Early Universe, Lattice Gauge Theory, Effective Field Theories, Flavor Physics, Dark Matter, QCD & Collider Physics)
 - 
 
