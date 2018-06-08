@@ -21,10 +21,10 @@ A curated list of introductory resources to particle physics for people without 
 
 ## Introduction / Overview
 #### Prof. Frank Close Lectures
-- [Frank Close - Introduction to Particle Physics (1/4)](https://www.youtube.com/watch?v=VKaycLuxhZ4)
-- [Frank Close - Introduction to Particle Physics (2/4)](https://www.youtube.com/watch?v=YGn_hf5rddg)
-- [Frank Close - Introduction to Particle Physics (3/4)](https://www.youtube.com/watch?v=QIvg_ZKh3i4)
-- [Frank Close - Introduction to Particle Physics (4/4)](https://www.youtube.com/watch?v=SHZpFgXaJhs)
+- [Introduction to Particle Physics (1/4)](https://www.youtube.com/watch?v=VKaycLuxhZ4)
+- [Introduction to Particle Physics (2/4)](https://www.youtube.com/watch?v=YGn_hf5rddg)
+- [Introduction to Particle Physics (3/4)](https://www.youtube.com/watch?v=QIvg_ZKh3i4)
+- [Introduction to Particle Physics (4/4)](https://www.youtube.com/watch?v=SHZpFgXaJhs)
 
 - [Playlist: Particle Physics by 'DrPhysicsA'](https://www.youtube.com/watch?v=d1zaw-KZX1o&list=PL93B3DDC89C085C1C)
 
