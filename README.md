@@ -17,7 +17,7 @@ A curated list of introductory resources to particle physics for people without 
 * [Jets](#jets)
 * [Monte-Carlo Techniques](#monte-carlo-techniques)
 * [Detector Technologies](#detector-technologies)
-* [Miscellaneous](#miscellaneous)
+* [Miscellaneous](#miscellaneous--advanced)
 
 ## Introduction / Overview
 #### Prof. Frank Close Lectures
@@ -61,6 +61,7 @@ A curated list of introductory resources to particle physics for people without 
 
 - [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
 - [Blog: Jets](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-known-apparently-elementary-particles/jets-the-manifestation-of-quarks-and-gluons/)
+- [Blog: What is Tagging?](https://physics.stackexchange.com/questions/13447/what-does-tagging-mean-in-experimental-high-energy-physics)
 
 ## Monte-Carlo Techniques
 - [Introduction to Monte-Carlo Techniques (1/2)](http://cds.cern.ch/record/2276330?ln=en)
@@ -76,17 +77,17 @@ A curated list of introductory resources to particle physics for people without 
 - [Simulation of Particles Within a Detector (1/2)](http://cds.cern.ch/record/2199210?ln=en)
 - [Simulation of Particles Within a Detector (2/2)](http://cds.cern.ch/record/2276428?ln=en)
 
-## Miscellaneous
-
+## Miscellaneous / Advanced
+- [Galileo Galelei Summer School on Theoretical Physics](http://webtheory.sns.it/ggilectures2016/program.html)
+(Lectures on the Early Universe, Lattice Gauge Theory, Effective Field Theories, Flavor Physics, Dark Matter, QCD & Collider Physics)
+- 
 
 ## Need More?
-
 * For more resources on particle physics as well as deep learning with a focus on physics, look up the resources available on the [CERN Document Server](http://cds.cern.ch/).
 
 * Also for more blog posts, check out this blog - [Of Particular Significance](https://profmattstrassler.com/new-start-here/) - by [Prof. Matt Strassler](http://www.physics.rutgers.edu/~strassler/).
 
 #### :bulb: Helpful Tip for Beginners: 
-
 * Refer to [Academic Training](http://cds.cern.ch/collection/Academic%20Training%20Lectures?ln=en) or [Summer Student Lectures](http://cds.cern.ch/collection/Summer%20Student%20Lectures?ln=en) since they assume very little pre-existing knowledge.
 
 * Try reading up a few articles on [Prof. Strassler's Blog](https://profmattstrassler.com/about/about-this-site-and-how-to-use-it/) before/after watching video lectures - this approach seems to be pretty helpful in nailing down most concepts.
