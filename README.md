@@ -9,6 +9,7 @@ A curated list of introductory resources to particle physics for people without 
 4. For multiple related resources that may not necessarily link to each other, please add all the links separately in a part-by-part order.
 5. If you are unable to categorise the resources, please leave them under [Miscellaneous](#miscellaneous--advanced)
 4. Adding resources on advanced subjects is encouraged, but do ensure the other resources present on the list cover the prerequisites for such topics - feel free to add those yourself.
+5. Add a :warning: warning against all advanced/theoretical resources for easier browsing.
 
 ## Contents
 * [Introduction / Overview](#introduction--overview)
