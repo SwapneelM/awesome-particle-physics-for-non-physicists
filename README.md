@@ -50,6 +50,9 @@ A curated list of introductory resources to particle physics for people without 
 
 ## Jets
 - ["What is a Jet?"](http://cds.cern.ch/record/1276292?ln=en)
+
+- [Playlist: Jets at Hadron Colliders (3 lecture series)](https://indico.cern.ch/event/115078/)
+
 - [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
 
 ## Monte-Carlo Techniques
@@ -67,4 +70,8 @@ A curated list of introductory resources to particle physics for people without 
 - [Simulation of Particles Within a Detector (2/2)](http://cds.cern.ch/record/2276428?ln=en)
 
 ## Miscellaneous
+
+For more resources on particle physics as well as deep learning with a focus on physics, look up the resources available on the [CERN Document Server](http://cds.cern.ch/).
+
+Helpful Tip for Beginners: Refer to [Academic Training](http://cds.cern.ch/collection/Academic%20Training%20Lectures?ln=en) or [Summer Student Lectures](http://cds.cern.ch/collection/Summer%20Student%20Lectures?ln=en) since they assume very little pre-existing knowledge.
 
