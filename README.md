@@ -15,6 +15,7 @@ A curated list of introductory resources to particle physics for people without 
 * [Quantum Electrodynamics (QED)](#quantum-electrodynamics)
 * [Standard Model and Quantum Chromodynamics (QCD)](#standard-model-and-quantum-chromodynamics)
 * [Jets](#jets)
+* [Colliders](#colliders)
 * [Monte-Carlo Techniques](#monte-carlo-techniques)
 * [Detector Technologies](#detector-technologies)
 * [Miscellaneous](#miscellaneous--advanced)
@@ -62,6 +63,10 @@ A curated list of introductory resources to particle physics for people without 
 - [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
 - [Blog: Jets](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-known-apparently-elementary-particles/jets-the-manifestation-of-quarks-and-gluons/)
 - [Blog: What is Tagging?](https://physics.stackexchange.com/questions/13447/what-does-tagging-mean-in-experimental-high-energy-physics)
+
+## Colliders
+- [Collider Physics from the Bottom Up (1/2)](https://www.youtube.com/watch?v=WecDyhrWg8U)
+- [Collider Physics from the Bottom Up (2/2)](https://www.youtube.com/watch?v=U2Mf8kcWLOA)
 
 ## Monte-Carlo Techniques
 - [Introduction to Monte-Carlo Techniques (1/2)](http://cds.cern.ch/record/2276330?ln=en)
