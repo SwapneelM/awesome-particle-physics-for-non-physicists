@@ -12,8 +12,8 @@ A curated list of introductory resources to particle physics for people without 
 
 ## Contents
 * [Introduction / Overview](#introduction--overview)
-* [Quantum Electrodynamics - QED](#quantum-electrodynamics--qed)
-* [Standard Model and Quantum Chromodynamics - QCD](#standard-model-and-quantum-chromodynamics-qcd)
+* [Quantum Electrodynamics (QED)](#quantum-electrodynamics)
+* [Standard Model and Quantum Chromodynamics (QCD)](#standard-model-and-quantum-chromodynamics)
 * [Jets](#jets)
 * [Monte-Carlo Techniques](#monte-carlo-techniques)
 * [Detector Technologies](#detector-technologies)
@@ -28,7 +28,7 @@ A curated list of introductory resources to particle physics for people without 
 
 - [Playlist: Particle Physics by 'DrPhysicsA'](https://www.youtube.com/watch?v=d1zaw-KZX1o&list=PL93B3DDC89C085C1C)
 
-## Quantum Electrodynamics - QED
+## Quantum Electrodynamics
 #### Prof. Richard Feynman Lectures
 - [Photons - Corpuscles of Light (1/4)](https://www.youtube.com/watch?v=eLQ2atfqk2c)
 - [Fits of Reflection and Transmission - Quantum Behaviour (2/4)](https://www.youtube.com/watch?v=kMSgE62S6oo)
@@ -42,7 +42,7 @@ A curated list of introductory resources to particle physics for people without 
 - [Problems in QED and the Standard Model Part 6/7 (4/4)](https://www.youtube.com/watch?v=qmCnnxrd8_Y)
 - [Problems in QED and the Standard Model Part 7/7 (4/4)](https://www.youtube.com/watch?v=x-Sf0UTSImw)
 
-## Standard Model and Quantum Chromodynamics - QCD
+## Standard Model and Quantum Chromodynamics
 - [SM Physics at the LHC (1/4)](http://cds.cern.ch/record/1564593?ln=en)
 - [SM Physics at the LHC (2/4)](http://cds.cern.ch/record/1564906?ln=en)
 - [SM Physics at the LHC (3/4)](http://cds.cern.ch/record/1564907?ln=en)
