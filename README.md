@@ -78,10 +78,15 @@ A curated list of introductory resources to particle physics for people without 
 
 ## Miscellaneous
 
-For more resources on particle physics as well as deep learning with a focus on physics, look up the resources available on the [CERN Document Server](http://cds.cern.ch/).
 
-Also for more blog posts, check out this blog - [Of Particular Significance](https://profmattstrassler.com/new-start-here/) - by [Prof. Matt Strassler](http://www.physics.rutgers.edu/~strassler/).
+## Need More?
+
+* For more resources on particle physics as well as deep learning with a focus on physics, look up the resources available on the [CERN Document Server](http://cds.cern.ch/).
+
+* Also for more blog posts, check out this blog - [Of Particular Significance](https://profmattstrassler.com/new-start-here/) - by [Prof. Matt Strassler](http://www.physics.rutgers.edu/~strassler/).
 
 #### :bulb: Helpful Tip for Beginners: 
-Refer to [Academic Training](http://cds.cern.ch/collection/Academic%20Training%20Lectures?ln=en) or [Summer Student Lectures](http://cds.cern.ch/collection/Summer%20Student%20Lectures?ln=en) since they assume very little pre-existing knowledge.
 
+* Refer to [Academic Training](http://cds.cern.ch/collection/Academic%20Training%20Lectures?ln=en) or [Summer Student Lectures](http://cds.cern.ch/collection/Summer%20Student%20Lectures?ln=en) since they assume very little pre-existing knowledge.
+
+* Try reading up a few articles on [Prof. Strassler's Blog](https://profmattstrassler.com/about/about-this-site-and-how-to-use-it/) before/after watching video lectures - this approach seems to be pretty helpful in nailing down most concepts.
