@@ -28,6 +28,12 @@ A curated list of introductory resources to particle physics for people without 
 
 - [Playlist: Particle Physics by 'DrPhysicsA'](https://www.youtube.com/watch?v=d1zaw-KZX1o&list=PL93B3DDC89C085C1C)
 
+- [Blog: What's a Proton](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/whats-a-proton-anyway/)
+- [Blog: What's a Hadron](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/whats-a-hadron-as-in-large-hadron-collider/)
+- [Blog: Proton Collisions](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/whats-a-proton-anyway/proton-collisions-vs-quarkgluonantiquark-mini-collisions/)
+- [Blog: Introduction to the LHC](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/introduction-to-the-large-hadron-collider/)
+- [Blog: What is Supersymmetry (Series)](https://profmattstrassler.com/articles-and-posts/some-speculative-theoretical-ideas-for-the-lhc/supersymmetry/supersymmetry-what-is-it/)
+
 ## Quantum Electrodynamics
 #### Prof. Richard Feynman Lectures
 - [Photons - Corpuscles of Light (1/4)](https://www.youtube.com/watch?v=eLQ2atfqk2c)
@@ -54,6 +60,7 @@ A curated list of introductory resources to particle physics for people without 
 - [Playlist: Jets at Hadron Colliders (3 lecture series)](https://indico.cern.ch/event/115078/)
 
 - [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
+- [Blog: Jets](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-known-apparently-elementary-particles/jets-the-manifestation-of-quarks-and-gluons/)
 
 ## Monte-Carlo Techniques
 - [Introduction to Monte-Carlo Techniques (1/2)](http://cds.cern.ch/record/2276330?ln=en)
@@ -73,5 +80,8 @@ A curated list of introductory resources to particle physics for people without 
 
 For more resources on particle physics as well as deep learning with a focus on physics, look up the resources available on the [CERN Document Server](http://cds.cern.ch/).
 
-Helpful Tip for Beginners: Refer to [Academic Training](http://cds.cern.ch/collection/Academic%20Training%20Lectures?ln=en) or [Summer Student Lectures](http://cds.cern.ch/collection/Summer%20Student%20Lectures?ln=en) since they assume very little pre-existing knowledge.
+Also for more blog posts, check out this blog - [Of Particular Significance](https://profmattstrassler.com/new-start-here/) - by [Prof. Matt Strassler](http://www.physics.rutgers.edu/~strassler/).
+
+#### :bulb: Helpful Tip for Beginners: 
+Refer to [Academic Training](http://cds.cern.ch/collection/Academic%20Training%20Lectures?ln=en) or [Summer Student Lectures](http://cds.cern.ch/collection/Summer%20Student%20Lectures?ln=en) since they assume very little pre-existing knowledge.
 
