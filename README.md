@@ -15,6 +15,7 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 
 ## Contents
 * [Introduction / Overview](#introduction--overview)
+* [Probability and Statistics](#probability-and-statistics)
 * [Quantum Electrodynamics (QED)](#quantum-electrodynamics)
 * [Standard Model and Quantum Chromodynamics (QCD)](#standard-model-and-quantum-chromodynamics)
 * [Jets](#jets)
@@ -38,7 +39,22 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 - [Blog: Introduction to the LHC](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/introduction-to-the-large-hadron-collider/)
 - [Blog: What is Supersymmetry (Series)](https://profmattstrassler.com/articles-and-posts/some-speculative-theoretical-ideas-for-the-lhc/supersymmetry/supersymmetry-what-is-it/)
 
+#### Text books covering background topics
+- [Introduction to Quantum Mechanics by David J. Griffiths](https://g.co/kgs/CFp8qS)
+- :warning: [Modern Quantum Mechanics by J. J. Sakurai](https://g.co/kgs/X6ZAH5)
+- [Introduction to Elementary Particles by David J. Griffiths](https://g.co/kgs/k69Vch)
+- [Modern Elementary Particle Physics by Gordon L. Kane](https://g.co/kgs/zWe12z)
+
+## Probability and Statistics
+- *Probability and Statistics in Particle Physics by Frodesen, Skjeggestad, and Tofte*, an exceptional book, unfortunately it is out of print, but it can be found in many libraries.
+- [Statistics for Nuclear and Particle Physicists by Louis Lyons](https://g.co/kgs/tDK6Ev)
+- :warning: [Statistical Data Analysis by Glen Cowan](https://g.co/kgs/cNHGQu) book
+- :warning: [Statistical Data Analysis by Glen Cowan](http://www.pp.rhul.ac.uk/~cowan/stat_course.html) course page
+- :warning: [Statistical Methods for Data Analysis by Luca Lista](http://people.na.infn.it/~lista/Statistics/) course page
+
 ## Quantum Electrodynamics
+- :warning: [Quantum Field Theory Lectures by Sidney R. Coleman](https://www.physics.harvard.edu/events/videos/Phys253)
+
 #### :warning: Prof. Richard Feynman Lectures
 - [Photons - Corpuscles of Light (1/4)](https://www.youtube.com/watch?v=eLQ2atfqk2c)
 - [Fits of Reflection and Transmission - Quantum Behaviour (2/4)](https://www.youtube.com/watch?v=kMSgE62S6oo)
