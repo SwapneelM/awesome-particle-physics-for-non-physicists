@@ -3,6 +3,8 @@
 
 This is a curated list of **introductory** resources to fundamental concepts in particle physics including the Standard Model, QED, QCD, Jets, Colliders, and Detectors. The idea is to learn these concepts with no background knowledge necessary (for the most part)!
 
+**For the ones interested in a more thorough understanding, it is recommended you go through the background reading in Probability and Statistics before venturing into the links marked with a :warning: sign.**
+
 ## Awesome list criteria
 
 1. The list includes videos (preferred), slides, notes, and other materials.
@@ -23,15 +25,16 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 * [Monte-Carlo Techniques](#monte-carlo-techniques)
 * [Detector Technologies](#detector-technologies)
 * [Miscellaneous](#miscellaneous--advanced)
+* [Background Reading](#background-reading)
 
 ## Introduction / Overview
-#### Prof. Frank Close Lectures
+#### Prof. Frank Close's Lectures
 - [Introduction to Particle Physics (1/4)](https://www.youtube.com/watch?v=VKaycLuxhZ4)
 - [Introduction to Particle Physics (2/4)](https://www.youtube.com/watch?v=YGn_hf5rddg)
 - [Introduction to Particle Physics (3/4)](https://www.youtube.com/watch?v=QIvg_ZKh3i4)
 - [Introduction to Particle Physics (4/4)](https://www.youtube.com/watch?v=SHZpFgXaJhs)
 
-- :warning:[Playlist: Particle Physics by 'DrPhysicsA'](https://www.youtube.com/watch?v=d1zaw-KZX1o&list=PL93B3DDC89C085C1C)
+- :warning: [Playlist: Particle Physics by 'DrPhysicsA'](https://www.youtube.com/watch?v=d1zaw-KZX1o&list=PL93B3DDC89C085C1C)
 
 - [Blog: What's a Proton](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/whats-a-proton-anyway/)
 - [Blog: What's a Hadron](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/whats-a-hadron-as-in-large-hadron-collider/)
@@ -39,23 +42,21 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 - [Blog: Introduction to the LHC](https://profmattstrassler.com/articles-and-posts/largehadroncolliderfaq/introduction-to-the-large-hadron-collider/)
 - [Blog: What is Supersymmetry (Series)](https://profmattstrassler.com/articles-and-posts/some-speculative-theoretical-ideas-for-the-lhc/supersymmetry/supersymmetry-what-is-it/)
 
-#### Text books covering background topics
-- [Introduction to Quantum Mechanics by David J. Griffiths](https://g.co/kgs/CFp8qS)
-- :warning: [Modern Quantum Mechanics by J. J. Sakurai](https://g.co/kgs/X6ZAH5)
-- [Introduction to Elementary Particles by David J. Griffiths](https://g.co/kgs/k69Vch)
-- [Modern Elementary Particle Physics by Gordon L. Kane](https://g.co/kgs/zWe12z)
-
 ## Probability and Statistics
-- *Probability and Statistics in Particle Physics by Frodesen, Skjeggestad, and Tofte*, an exceptional book, unfortunately it is out of print, but it can be found in many libraries.
+- **Probability and Statistics in Particle Physics by Frodesen, Skjeggestad, and Tofte**, an exceptional book, unfortunately it is out of print, but it can be found in many libraries.
 - [Statistics for Nuclear and Particle Physicists by Louis Lyons](https://g.co/kgs/tDK6Ev)
 - :warning: [Statistical Data Analysis by Glen Cowan](https://g.co/kgs/cNHGQu) book
 - :warning: [Statistical Data Analysis by Glen Cowan](http://www.pp.rhul.ac.uk/~cowan/stat_course.html) course page
 - :warning: [Statistical Methods for Data Analysis by Luca Lista](http://people.na.infn.it/~lista/Statistics/) course page
 
 ## Quantum Electrodynamics
+- [Fermilab: Quantum Electrodynamics Theory](https://www.youtube.com/watch?v=hHTWBc14-mk)
+- [Fermilab: QED - Experimental Evidence](https://www.youtube.com/watch?v=I7OdEfGOX7k)
+
+- [Fermilab: Quantum Field Theory](https://www.youtube.com/watch?v=FBeALt3rxEA)
 - :warning: [Quantum Field Theory Lectures by Sidney R. Coleman](https://www.physics.harvard.edu/events/videos/Phys253)
 
-#### :warning: Prof. Richard Feynman Lectures
+#### :warning: Prof. Richard Feynman's Lectures
 - [Photons - Corpuscles of Light (1/4)](https://www.youtube.com/watch?v=eLQ2atfqk2c)
 - [Fits of Reflection and Transmission - Quantum Behaviour (2/4)](https://www.youtube.com/watch?v=kMSgE62S6oo)
 - [Electrons and their Interactions (3/4)](https://www.youtube.com/watch?v=jNNXD7fuE5E&t)
@@ -74,18 +75,21 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 - [SM Physics at the LHC (3/4)](http://cds.cern.ch/record/1564907?ln=en)
 - [SM Physics at the LHC (4/4)](http://cds.cern.ch/record/1565883?ln=en)
 
+- [Fermilab: Quantum Chromodynamics](https://www.youtube.com/watch?v=df4LoJph76A)
+- [Fermilab: QUantum Color](https://www.youtube.com/watch?v=72pprrSSDK0)
+
 ## Jets
-- ["What is a Jet?"](http://cds.cern.ch/record/1276292?ln=en)
+- :warning: ["What is a Jet?"](http://cds.cern.ch/record/1276292?ln=en)
 
 - [Playlist: Jets at Hadron Colliders (3 lecture series)](https://indico.cern.ch/event/115078/)
 
-- :warning:[Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
+- :warning: [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
 - [Blog: Jets](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-known-apparently-elementary-particles/jets-the-manifestation-of-quarks-and-gluons/)
 - [Blog: What is Tagging?](https://physics.stackexchange.com/questions/13447/what-does-tagging-mean-in-experimental-high-energy-physics)
 
 ## Colliders
-- :warning:[Collider Physics from the Bottom Up (1/2)](https://www.youtube.com/watch?v=WecDyhrWg8U)
-- :warning:[Collider Physics from the Bottom Up (2/2)](https://www.youtube.com/watch?v=U2Mf8kcWLOA)
+- :warning: [Collider Physics from the Bottom Up (1/2)](https://www.youtube.com/watch?v=WecDyhrWg8U)
+- :warning: [Collider Physics from the Bottom Up (2/2)](https://www.youtube.com/watch?v=U2Mf8kcWLOA)
 
 ## Monte-Carlo Techniques
 - [Introduction to Monte-Carlo Techniques (1/2)](http://cds.cern.ch/record/2276330?ln=en)
@@ -104,6 +108,12 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 ## Miscellaneous / Advanced
 - :warning:[Galileo Galelei Summer School on Theoretical Physics](http://webtheory.sns.it/ggilectures2016/program.html)
 (Lectures on the Early Universe, Lattice Gauge Theory, Effective Field Theories, Flavor Physics, Dark Matter, QCD & Collider Physics)
+
+#### Background Reading
+- [Introduction to Quantum Mechanics by David J. Griffiths](https://g.co/kgs/CFp8qS)
+- :warning: [Modern Quantum Mechanics by J. J. Sakurai](https://g.co/kgs/X6ZAH5)
+- [Introduction to Elementary Particles by David J. Griffiths](https://g.co/kgs/k69Vch)
+- [Modern Elementary Particle Physics by Gordon L. Kane](https://g.co/kgs/zWe12z)
 
 ## Need More?
 * For more resources on particle physics as well as deep learning with a focus on physics, look up the resources available on the [CERN Document Server](http://cds.cern.ch/).
