@@ -83,9 +83,10 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 
 - [Playlist: Jets at Hadron Colliders (3 lecture series)](https://indico.cern.ch/event/115078/)
 
-- :warning: [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
 - [Blog: Jets](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-known-apparently-elementary-particles/jets-the-manifestation-of-quarks-and-gluons/)
+- [Blog: Jets at CMS](http://cms.web.cern.ch/news/jets-cms-and-determination-their-energy-scale)
 - [Blog: What is Tagging?](https://physics.stackexchange.com/questions/13447/what-does-tagging-mean-in-experimental-high-energy-physics)
+- :warning: [Jet Physics Slides - Prof. M. Schwartz](http://users.physics.harvard.edu/~schwartz/talks/Cargese-Lecture2-Schwartz.pdf)
 
 ## Colliders
 - :warning: [Collider Physics from the Bottom Up (1/2)](https://www.youtube.com/watch?v=WecDyhrWg8U)
