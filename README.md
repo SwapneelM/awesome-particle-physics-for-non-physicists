@@ -77,7 +77,7 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 - [SM Physics at the LHC (4/4)](http://cds.cern.ch/record/1565883?ln=en)
 
 - [Fermilab: Quantum Chromodynamics](https://www.youtube.com/watch?v=df4LoJph76A)
-- [Fermilab: QUantum Color](https://www.youtube.com/watch?v=72pprrSSDK0)
+- [Fermilab: Quantum Color](https://www.youtube.com/watch?v=72pprrSSDK0)
 
 ## Jets
 - :warning: ["What is a Jet?"](http://cds.cern.ch/record/1276292?ln=en)
