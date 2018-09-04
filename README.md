@@ -52,6 +52,7 @@ This is a curated list of **introductory** resources to fundamental concepts in 
 ## Quantum Electrodynamics
 - [Fermilab: Quantum Electrodynamics Theory](https://www.youtube.com/watch?v=hHTWBc14-mk)
 - [Fermilab: QED - Experimental Evidence](https://www.youtube.com/watch?v=I7OdEfGOX7k)
+- [From Cbits to Qbits: Teaching computer scientists quantum mechanics](https://arxiv.org/abs/quant-ph/0207118)
 
 - [Fermilab: Quantum Field Theory](https://www.youtube.com/watch?v=FBeALt3rxEA)
 - :warning: [Quantum Field Theory Lectures by Sidney R. Coleman](https://www.physics.harvard.edu/events/videos/Phys253)
